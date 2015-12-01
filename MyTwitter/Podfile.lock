@@ -1,0 +1,50 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - BDBOAuth1Manager (1.5.0):
+    - AFNetworking/NSURLConnection (~> 2.5.0)
+    - AFNetworking/NSURLSession (~> 2.5.0)
+  - DateTools (1.7.0)
+  - MBProgressHUD (0.9.1)
+  - STTwitter (0.2.2)
+  - SVPullToRefresh (0.4.1)
+  - UIColor-HexString (1.1.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BDBOAuth1Manager
+  - DateTools
+  - MBProgressHUD
+  - STTwitter
+  - SVPullToRefresh
+  - UIColor-HexString
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  BDBOAuth1Manager: 2e28773b58f880fb36b5cd3efcf0b1fefbc78a99
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  STTwitter: eb85d8770ddb0f8989f341cf41ea875e90ac6e7f
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  UIColor-HexString: f8a5612bd6772fed8db58ee594b42a0b2831750e
+
+COCOAPODS: 0.39.0
